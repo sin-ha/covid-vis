@@ -1,0 +1,14 @@
+{
+  "name": "visapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "author": "harsh sinha",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
